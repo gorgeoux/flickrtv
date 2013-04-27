@@ -1,4 +1,4 @@
-	// Hardcoded channels
+	// Hardcoded channels - yeah
 	
 	carouselItemCount = 0
 	
